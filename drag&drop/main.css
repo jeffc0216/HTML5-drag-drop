@@ -1,0 +1,17 @@
+#leftbox{
+	width: 300px;
+	height: 300px;
+	border: 3px dashed green;
+	float: left;
+	margin: 10px;
+	padding: 10px;
+}
+
+#rightbox{
+	width: 300px;
+	height: 300px;
+	border: 3px dashed blue;
+	float: left;
+	margin: 10px;
+	padding: 10px;
+}
